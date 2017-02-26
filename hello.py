@@ -1,5 +1,3 @@
-#this is a test Github
-
 from random import choice
 import random
 import string
